@@ -1,3 +1,6 @@
+This is a fork of Tamatrix by Hortinstein. This is currently an exact reproduction and no changes have been made. 
+
+
 This contains all the software I've used/written for the Tamagotchi Matrix and viewer.
 
 The directory structure:
